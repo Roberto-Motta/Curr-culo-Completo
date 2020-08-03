@@ -1,2 +1,2 @@
 # Currículo Completo
-O objetivo deste site é mostrar de maneira online o currículo completo do profissional, incluindo suas experiências comprovadas, as Freelancers, trabalhos voluntários, cursos de curta duração, projetos realizados de maneira formal e informal dentre outros.
+O objetivo deste site é mostrar de maneira online o currículo completo do profissional, ou seja, além do currículo apresentado, incluir suas experiências comprovadas, experiências Freelancers, trabalhos voluntários, cursos de curta duração, projetos realizados de maneira formal e informal, trabalhos acadêmicos dentre outros.
